@@ -1,7 +1,7 @@
 {
   "name": "05-clima-mundo",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://www.npmjs.com/package/axios",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.18.0",
     "colors": "^1.3.3",
     "yargs": "^13.2.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micaeprado/clima-mundo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/micaeprado/clima-mundo/issues"
+  },
+  "homepage": "https://github.com/micaeprado/clima-mundo#readme"
 }
